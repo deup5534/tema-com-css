@@ -1,14 +1,29 @@
+  @import url('https://fonts.googleapis.com/css2?family=Genos:wght@100&display=swap');
+
 body {
+    font-family: 'Genos', sans-serif;
+    font-size: 25px;
+    background-image: url(https://swall.teahub.io/photos/small/95-953148_pastel-pink-pokemon-pokemon-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 main#container {
+
 }
 
 h1.titulo {
+    background-color: yellow;
 }
 
 p.frase {
+    background-color: yellow;
 }
 
 p.autor {
+    background-color: red;
+}
+
+#titulo{
+    background-color: blue;
 }
