@@ -1,4 +1,5 @@
   @import url('https://fonts.googleapis.com/css2?family=Genos:wght@100&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 
 body {
     font-family: 'Genos', sans-serif;
@@ -9,25 +10,24 @@ body {
 }
 
 main#container {
-
+    background-color: #FFDE00;
+    border-width: 50px;
+    border-color: #3B4CCA;
+    border-style: solid;    
+    border: 10px,top, #3B4CCA; box-shadow: 20px 20px 0 0 black
 }
 
 h1.titulo {
-    background-color: yellow;
-    color: aqua;
+    font-family: 'Noto Sans JP', sans-serif;
+    
 }
 
 p.frase {
-    background-color: yellow;
+    font-family: 'Noto Sans JP', sans-serif;
+    
 }
 
 p.autor {
-    background-color: red;
-}
-
-#titulo{
-    background-color: blue;
-}
-div{
-    background-color: yellow;
+    font-family: 'Noto Sans JP', sans-serif;
+    
 }
