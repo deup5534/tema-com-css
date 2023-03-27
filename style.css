@@ -1,34 +1,38 @@
-  @import url('https://fonts.googleapis.com/css2?family=Genos:wght@100&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Genos:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 
 body {
-    font-family: 'Genos', sans-serif;
-    font-size: 25px;
-    background-image: url(https://swall.teahub.io/photos/small/95-953148_pastel-pink-pokemon-pokemon-desktop.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+  font-family: 'Genos', sans-serif;
+  font-size: 25px;
+  background-image: url(https://swall.teahub.io/photos/small/95-953148_pastel-pink-pokemon-pokemon-desktop.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 main#container {
-    background-color: #FFDE00;
-    border-width: 50px;
-    border-color: #3B4CCA;
-    border-style: solid;    
-    border: 10px,top, #3B4CCA; box-shadow: 20px 20px 0 0 black;
-    padding: 50px;
+  background-color: #FFDE00;
+  border-width: 50px;
+  border-color: #3B4CCA;
+  border-style: solid;    
+  border: 10px,top, #3B4CCA; box-shadow: 20px 20px 0 0 black;
+  padding: 50px;
 }
 
 h1.titulo {
-    font-family: 'Noto Sans JP', sans-serif;
-    
+  font-family: 'Noto Sans JP', sans-serif;
+  
 }
 
 p.frase {
-    font-family: 'Noto Sans JP', sans-serif;
-    
+  font-family: 'Noto Sans JP', sans-serif;
+  
 }
 
 p.autor {
-    font-family: 'Noto Sans JP', sans-serif;
-    
+  font-family: 'Noto Sans JP', sans-serif;
+  text-decoration: underline;
+  
+}
+#titulo{
+    text-decoration: underline;
 }
